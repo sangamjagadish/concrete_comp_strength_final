@@ -1,0 +1,4 @@
+2022-09-10/12:13,41		training Database disconnected successfully!!
+2022-09-10/12:17,10		Database is connected
+2022-09-10/12:17,31		Database is connected
+2022-09-10/12:23,04		Database is connected

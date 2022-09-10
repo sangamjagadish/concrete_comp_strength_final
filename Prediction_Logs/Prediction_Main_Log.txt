@@ -1,0 +1,14 @@
+2022-09-10/12:16,58		 Start of validation of files for prediction!!
+2022-09-10/12:16,58		Raw Data Validation Complete!!
+2022-09-10/12:16,58		Raw Data Transformation Started!!!
+2022-09-10/12:16,58		Raw Data Transformation Completed!!
+2022-09-10/12:16,58		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-09-10/12:17,20		Table creation Completed!!
+2022-09-10/12:17,20		Insertion of Data into Table started!!!!
+2022-09-10/12:22,50		Insertion in Table completed!!!
+2022-09-10/12:22,50		Deleting Good Data Folder!!!
+2022-09-10/12:22,50		Good_Data folder deleted!!!
+2022-09-10/12:22,50		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-09-10/12:22,50		Bad files moved to archive!! Bad folder Deleted!!
+2022-09-10/12:22,50		Validation Operation completed!!
+2022-09-10/12:22,50		Extracting csv file from table

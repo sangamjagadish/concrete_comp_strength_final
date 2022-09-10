@@ -1,0 +1,6 @@
+2022-09-10/12:13,14		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 9
+
+2022-09-10/12:16,50		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 9
+
+2022-09-10/12:29,34		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 9
+

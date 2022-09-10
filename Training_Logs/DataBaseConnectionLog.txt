@@ -1,0 +1,4 @@
+2022-09-10/12:13,30		Database is connected
+2022-09-10/12:29,49		Database is connected
+2022-09-10/12:30,05		Database is connected
+2022-09-10/12:35,38		Database is connected

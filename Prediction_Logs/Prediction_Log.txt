@@ -1,0 +1,13 @@
+2022-09-10/12:23,06		Start of Prediction
+2022-09-10/12:23,07		Entered the get_data method of the Data_Getter class
+2022-09-10/12:23,07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-10/12:23,07		Entered the removeDuplicates method of the Preprocessor class
+2022-09-10/12:23,07		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:23,07		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:23,07		Entered the load_model method of the File_Operation class
+2022-09-10/12:23,07		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-10/12:23,09		Entered the find_correct_model_file method of the File_Operation class
+2022-09-10/12:23,09		Exited the find_correct_model_file method of the Model_Finder class.
+2022-09-10/12:23,09		Entered the load_model method of the File_Operation class
+2022-09-10/12:23,10		Model File XGBoostRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2022-09-10/12:23,10		End of Prediction

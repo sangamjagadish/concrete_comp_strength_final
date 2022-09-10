@@ -1,0 +1,37 @@
+2022-09-10/12:35,41		Start of Training
+2022-09-10/12:35,41		Entered the get_data method of the Data_Getter class
+2022-09-10/12:35,41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-10/12:35,41		Entered the removeDuplicates method of the Preprocessor class
+2022-09-10/12:35,41		Entered the separate_label_feature method of the Preprocessor class
+2022-09-10/12:35,41		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-10/12:35,41		Entered the elbow plot method of the KMeansClustering class
+2022-09-10/12:35,50		The optimum numbers of cluster is:  3.
+2022-09-10/12:35,50		Exited the elbow_plot method of the KMeansClustering class
+2022-09-10/12:35,50		Entered the create_clusters method of the KMeansClustering class
+2022-09-10/12:35,50		Entered the save_model method of the File_Oeration class
+2022-09-10/12:35,50		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-09-10/12:35,50		Succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2022-09-10/12:35,50		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:35,50		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:35,50		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:35,50		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:35,50		Entered the get_best_model method of the Model_Finder class
+2022-09-10/12:35,50		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-10/12:36,04		Entered the save_model method of the File_Oeration class
+2022-09-10/12:36,04		Model File XGBoostRegressor2 saved. Exited the save_model method of the Model_Finder class
+2022-09-10/12:36,04		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,04		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,04		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,04		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,04		Entered the get_best_model method of the Model_Finder class
+2022-09-10/12:36,04		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-10/12:36,17		Entered the save_model method of the File_Oeration class
+2022-09-10/12:36,17		Model File RandomForestRegressor1 saved. Exited the save_model method of the Model_Finder class
+2022-09-10/12:36,17		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,17		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,17		Entered the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,17		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-10/12:36,17		Entered the get_best_model method of the Model_Finder class
+2022-09-10/12:36,17		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-10/12:36,29		Entered the save_model method of the File_Oeration class
+2022-09-10/12:36,29		Model File RandomForestRegressor0 saved. Exited the save_model method of the Model_Finder class

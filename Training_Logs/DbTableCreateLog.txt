@@ -1,0 +1,2 @@
+2022-09-10/12:13,41		Error occured while creating Table Good_Raw_Data: errors={'efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:a55a9798-faa1-4274-940e-9eb3e3698166': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:a55a9798-faa1-4274-940e-9eb3e3698166
+2022-09-10/12:29,53		Table Good_Raw_Data created successfully

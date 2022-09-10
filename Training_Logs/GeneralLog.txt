@@ -1,0 +1,6 @@
+2022-09-10/12:13,14		GoodRaw Directory deleted successfully!!!
+2022-09-10/12:16,50		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-10/12:29,34		GoodRaw Directory deleted successfully!!!
+2022-09-10/12:35,26		GoodRaw Directory deleted successfully!!!
+2022-09-10/12:35,26		Bad Files moved to archive
+2022-09-10/12:35,26		Bad Raw Data folder deleted successfully!!!
