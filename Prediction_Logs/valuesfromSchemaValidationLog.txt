@@ -1,2 +1,20 @@
 2022-09-10/12:16,58		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
 
+2022-09-12/11:33,25		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/11:33,53		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/11:33,54		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/11:55,16		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/11:58,33		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/11:58,35		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/12:42,17		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/12:42,55		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+
+2022-09-12/12:42,56		LengthOfFirstWordInFile:: 8	LengthOfSecondWordInFile:: 4	NumberofColumns:: 8
+

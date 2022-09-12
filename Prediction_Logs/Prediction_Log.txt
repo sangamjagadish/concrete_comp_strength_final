@@ -11,3 +11,45 @@
 2022-09-10/12:23,09		Entered the load_model method of the File_Operation class
 2022-09-10/12:23,10		Model File XGBoostRegressor1 loaded. Exited the load_model method of the Model_Finder class
 2022-09-10/12:23,10		End of Prediction
+2022-09-12/11:40,01		Start of Prediction
+2022-09-12/11:40,01		Entered the get_data method of the Data_Getter class
+2022-09-12/11:40,01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/11:40,01		Entered the removeDuplicates method of the Preprocessor class
+2022-09-12/11:40,01		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-12/11:40,01		Entered the standardScalingData method of the Preprocessor class
+2022-09-12/11:40,01		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-12/11:40,01		Entered the load_model method of the File_Operation class
+2022-09-12/11:40,01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/11:40,02		Entered the find_correct_model_file method of the File_Operation class
+2022-09-12/11:40,02		Exited the find_correct_model_file method of the Model_Finder class.
+2022-09-12/11:40,02		Entered the load_model method of the File_Operation class
+2022-09-12/11:40,02		Model File RandomForestRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/11:40,02		End of Prediction
+2022-09-12/12:04,40		Start of Prediction
+2022-09-12/12:04,40		Entered the get_data method of the Data_Getter class
+2022-09-12/12:04,40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/12:04,40		Entered the removeDuplicates method of the Preprocessor class
+2022-09-12/12:04,40		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-12/12:04,40		Entered the standardScalingData method of the Preprocessor class
+2022-09-12/12:04,40		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-12/12:04,40		Entered the load_model method of the File_Operation class
+2022-09-12/12:04,40		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/12:04,40		Entered the find_correct_model_file method of the File_Operation class
+2022-09-12/12:04,40		Exited the find_correct_model_file method of the Model_Finder class.
+2022-09-12/12:04,40		Entered the load_model method of the File_Operation class
+2022-09-12/12:04,40		Model File RandomForestRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/12:04,40		End of Prediction
+2022-09-12/12:49,00		Start of Prediction
+2022-09-12/12:49,00		Entered the get_data method of the Data_Getter class
+2022-09-12/12:49,00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/12:49,00		Entered the removeDuplicates method of the Preprocessor class
+2022-09-12/12:49,00		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-12/12:49,00		Entered the standardScalingData method of the Preprocessor class
+2022-09-12/12:49,00		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-12/12:49,00		Entered the load_model method of the File_Operation class
+2022-09-12/12:49,00		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/12:49,00		Entered the find_correct_model_file method of the File_Operation class
+2022-09-12/12:49,00		Exited the find_correct_model_file method of the Model_Finder class.
+2022-09-12/12:49,00		Entered the load_model method of the File_Operation class
+2022-09-12/12:49,00		Model File RandomForestRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2022-09-12/12:49,00		End of Prediction

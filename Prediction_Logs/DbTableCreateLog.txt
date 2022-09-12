@@ -1,1 +1,10 @@
 2022-09-10/12:17,20		Table Good_Raw_Data created successfully
+2022-09-12/11:33,50		Error occured while creating Table Good_Raw_Data: errors={<Host: efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:d2ff9b3a-3d22-4014-9101-6b6eafe7779b us-east1>: ConnectionException('Host has been marked down or removed')}, last_host=efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:2ef0ef1d-05ea-46b2-8444-a147e93233b7
+2022-09-12/11:33,50		prediction Database disconnected successfully!!
+2022-09-12/11:34,09		Table Good_Raw_Data created successfully
+2022-09-12/11:55,40		Error occured while creating Table Good_Raw_Data: errors={'Connection defunct by heartbeat': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:2ef0ef1d-05ea-46b2-8444-a147e93233b7
+2022-09-12/11:55,40		prediction Database disconnected successfully!!
+2022-09-12/11:58,50		Table Good_Raw_Data created successfully
+2022-09-12/12:42,51		Error occured while creating Table Good_Raw_Data: errors={<Host: efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:d2ff9b3a-3d22-4014-9101-6b6eafe7779b us-east1>: ConnectionException('Host has been marked down or removed')}, last_host=efce4195-56d9-45a1-a7b1-74c9bf2830d8-us-east1.db.astra.datastax.com:29042:2ef0ef1d-05ea-46b2-8444-a147e93233b7
+2022-09-12/12:42,51		prediction Database disconnected successfully!!
+2022-09-12/12:43,12		Table Good_Raw_Data created successfully
