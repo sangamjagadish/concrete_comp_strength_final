@@ -14,7 +14,7 @@
     Data will contain concrete ingredients names in eight columns.
     The last column will have the compressive strength of concrete for different mix of ingredients .
     
-    Apart from training files, we laso require a "schema" file from the client, which contain all the
+    Apart from training files, we also require a "schema" file from the client, which contain all the
     relevant information about the training files such as:
     
     Name of the files, Length of Date value in FileName, Length of Time value in FileName, NUmber of Columnns, 
@@ -68,6 +68,8 @@
         
      Clustering: KMeans algorithm is used to create clusters in the preprocessed data. The optimum number of clusters 
      is selected
+     
+     Algorithms we used for the analysis and model building are, KNN, KMeans ++, Random Forest, SVR, Decision tree, Xgboost.
 
 
 ## Create a file "Dockerfile" with below content
@@ -187,7 +189,7 @@ git push -u origin main
 
 ## setup your project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/pipelines/github/sangamjagadish/concrete_comp_strength_final/setup/"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
