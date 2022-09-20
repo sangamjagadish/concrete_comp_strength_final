@@ -10,6 +10,8 @@ cmd2==2.4.2
 colorhash==1.1.0
 colorlog==6.7.0
 configparser==5.3.0
+Flask==2.0.2
+Flask-Cors==3.0.10
 Flask-MonitoringDashboard==3.1.1
 fonttools==4.37.1
 greenlet==1.1.3
