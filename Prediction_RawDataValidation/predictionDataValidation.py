@@ -78,7 +78,7 @@ class Prediction_Data_Validation:
 
         """
 
-        regex = "['Concrete']+['\_']+['Data']+\.xls"
+        regex = "['Concrete']+['\_'']+['Data']+\.xls"
         return regex
 
 
