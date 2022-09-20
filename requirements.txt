@@ -44,6 +44,8 @@ stevedore==3.5.0
 
 typing_extensions==4.3.0
 tzlocal==2.0.0
+wcwidth==0.2.5
+Werkzeug==2.0.2
 
 wincertstore==0.2
 xgboost==1.6.2
